@@ -5,7 +5,7 @@
  * IDL can be found at `target/idl/tokenvest.json`.
  */
 export type Tokenvest = {
-  "address": "coUnmi3oBUtwtd9fjeAvSsJssXh5A5xyPbhpewyzRVF",
+  "address": "A6cHae2BaFZFX3jaWBqoRhR2HLoqp5RFhzfQJdt6k63",
   "metadata": {
     "name": "tokenvest",
     "version": "0.1.0",
@@ -138,14 +138,14 @@ export type Tokenvest = {
     {
       "name": "tokenvest",
       "discriminator": [
-        255,
-        176,
-        4,
-        245,
-        188,
-        253,
-        124,
-        25
+        155,
+        34,
+        57,
+        226,
+        205,
+        126,
+        141,
+        131
       ]
     }
   ],
